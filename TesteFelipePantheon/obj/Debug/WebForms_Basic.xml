@@ -1,0 +1,239 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TesteFelipePantheon
+</name>
+</assembly>
+<members>
+<member name="T:TesteFelipePantheon.My.MyWebExtension">
+ <summary>
+ Módulo usado para definir as propriedades que estão disponíveis em My Namespace para projetos da web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:TesteFelipePantheon.My.MyWebExtension.Computer">
+ <summary>
+ Retorna informações sobre o computador host.
+ </summary>
+</member>
+<member name="P:TesteFelipePantheon.My.MyWebExtension.User">
+ <summary>
+ Retorna informações sobre o usuário atual da web.
+ </summary>
+</member>
+<member name="P:TesteFelipePantheon.My.MyWebExtension.Request">
+ <summary>
+ Retorna um objeto Request.
+ </summary>
+</member>
+<member name="P:TesteFelipePantheon.My.MyWebExtension.Response">
+ <summary>
+ Retorna um objeto Response.
+ </summary>
+</member>
+<member name="P:TesteFelipePantheon.My.MyWebExtension.Log">
+ <summary>
+ Retorna o objeto de log Asp.
+ </summary>
+</member>
+<member name="F:TesteFelipePantheon._AssociadosDashboard._cmdGet">
+<summary>
+Controle cmdGet.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._AssociadosDashboard._GridView1">
+<summary>
+Controle GridView1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Associados._txtNome">
+<summary>
+Controle txtNome.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Associados._txtCpf">
+<summary>
+Controle txtCpf.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Associados._txtData">
+<summary>
+Controle txtData.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Associados._txtEmpresas">
+<summary>
+Controle txtEmpresas.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Associados._cmdGet">
+<summary>
+Controle cmdGet.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Associados._lblErro">
+<summary>
+Controle lblErro.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._EmpresasDashboard._cmdGet">
+<summary>
+Controle cmdGet.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._EmpresasDashboard._GridView1">
+<summary>
+Controle GridView1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Empresas._txtNome">
+<summary>
+Controle txtNome.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Empresas._txtCnpj">
+<summary>
+Controle txtCnpj.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Empresas._txtAssociados">
+<summary>
+Controle txtAssociados.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Empresas._cmdGet">
+<summary>
+Controle cmdGet.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon._Empresas._lblErro">
+<summary>
+Controle lblErro.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon.SiteMaster._MainContent">
+<summary>
+Controle MainContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon.Site_Mobile._Head1">
+<summary>
+controle Head1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon.Site_Mobile._HeadContent">
+<summary>
+Controle HeadContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon.Site_Mobile._form1">
+<summary>
+Controle form1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon.Site_Mobile._FeaturedContent">
+<summary>
+Controle FeaturedContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon.Site_Mobile._MainContent">
+<summary>
+Controle MainContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:TesteFelipePantheon.Site_Mobile._ViewSwitcher1">
+<summary>
+controle ViewSwitcher1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+</members>
+</doc>
